@@ -1,5 +1,3 @@
-#!python/bin/python
-
 import socket
 import os
 import struct
